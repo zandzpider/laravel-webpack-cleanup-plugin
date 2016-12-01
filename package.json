@@ -9,6 +9,10 @@
     "clean": "rimraf lib",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zandzpider/laravel-webpack-cleanup-plugin.git"
+  },
   "keywords": [
     "laravel",
     "webpack",
@@ -27,6 +31,10 @@
   },
   "author": "Daniel Bråtasæter <zandzpider@gmail.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zandzpider/laravel-webpack-cleanup-plugin/issues"
+  },
+  "homepage": "https://github.com/zandzpider/laravel-webpack-cleanup-plugin#readme",
   "dependencies": {
     "babel-polyfill": "^6.13.0",
     "on-build-webpack": "^0.1.0"
